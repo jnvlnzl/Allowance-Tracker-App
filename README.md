@@ -27,4 +27,3 @@ Allowance Tracker is an application that will summarize the received financial a
 ![image](https://github.com/user-attachments/assets/d7fcd8aa-054f-423c-94e3-6462d68c5944)
 11. Assuming the process has already been completed, the bar graph will then show a complete monthly summary of the received, expended, and saved allowance.
 ![image](https://github.com/user-attachments/assets/f5db8be1-67cc-4c44-8d70-eef91c0ac5cb)
-
