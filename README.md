@@ -2,7 +2,8 @@
 
 Allowance Tracker is an application that will summarize the received financial assistance and the expenses from the financial assistance. The application consists of three main functions which are Received Financial Assistance, Expenses from Financial Assistance, and Overall Summary of the Received and Expended. Fundamentally, the application will require the student to input the amount of funds they received or expended, its category, and the date. The data will be stored in a CSV file and would later on be used to form a graphical presentation for the summary.
 
-Walkthrough
+### Walkthrough
+
 1. Run the main.mlapp file to get started. The main menu will consist of three buttons, each corresponds to the functionalities stated above. To start, click the RECEIVED button.
 2. The received window will allow the user to input the month and the breakdown of received allowance. Input the desired information.
 ![image](https://github.com/user-attachments/assets/4e27c69b-1a3c-4b32-b7da-a325b1a5d9f1)
